@@ -1,0 +1,14 @@
+.expo/*
+*.jks
+*.mobileprovision
+node_modules/**/*
+*.p8
+*.p12
+*.key
+npm-debug.*
+web-build/
+.DS_Store
+web-report/
+*.orig.*
+
+
